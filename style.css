@@ -1,0 +1,53 @@
+.header{
+
+background-color: #633939;
+height: 200px;
+margin-left: 20px;
+margin-right: 28px;
+
+
+}
+.header img{
+
+width: 50px;
+padding-left: 20px;
+padding-top: 20px;
+
+
+}
+#heading h1{
+
+text-emphasis-color: white;
+
+
+}
+.myform{
+
+border: 2px solid gray;
+margin: 20px;
+
+
+}
+.applicationheading{
+
+border-bottom: 2px solid gray;
+margin-top: 0px;
+
+}
+.button-container{
+    top: 30px;
+    position: relative;
+}
+.button-container button{
+    position: relative; 
+    /* top: 70; */
+    right: 0;
+    left: 1100px;
+    /* text-align: center; */
+
+
+
+
+
+
+}
